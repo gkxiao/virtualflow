@@ -1,5 +1,5 @@
 <h2>Virtualflow for Cloudam</h2>
-<p>This is a reversion of the Virtualflow</sup> so that it can run on Cloudam platform. </p>
+<p>This is a reversion of the Virtualflow<sup>[1,2,3]</sup> so that it can run on Cloudam platform. </p>
 <p>A detailed tutorual can be available from my blog<sup>[4,5]</sup></p>   
 <h2>Reference</h2>
 <ol>
